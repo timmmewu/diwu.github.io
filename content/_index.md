@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Greetings, שלומות, 你好
+      title: Greetings, שלום, 你好
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
