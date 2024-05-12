@@ -36,7 +36,7 @@ sections:
               * Analyze the Chinese Local Bond Market using time series analysis, and fixed effect regressions
               * Enhance an Elite Database by scraping data from external official Chinese Government websites and applying GPT API calls to extract relevant information
         - title: Software Engineering Research Intern
-          company: German Aerospace Center
+          company: Data Science Center, German Aerospace Center
           company_url:
           company_logo:
           location: Jena, Germany
@@ -44,7 +44,7 @@ sections:
           date_end: '2022-08-31'
           description: Developed machine learning type inference algorithm by combining machine learning and novelty detection, achieved high assurance F1 scores for automated type inference
         - title: Research Project Manager
-          company: The Hebrew Univeristy of Jerusalem
+          company: Digital Humanities Lab, The Hebrew Univeristy of Jerusalem
           company_url:
           company_logo:
           location: Jerusalem, Israel

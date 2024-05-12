@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Yale Political Science PhD， UC San Diego - Master of Chinese Political Economy
+role: Incoming Yale Political Science PhD
+UC San Diego - Master of Chinese Political Economy
 
 # Organizations/Affiliations to show in About widget
 organizations:
