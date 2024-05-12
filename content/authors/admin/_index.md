@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Yale Political Science PhD \n UC San Diego - Master of Chinese Political Economy
+role: Incoming Yale Political Science PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,12 @@ bio: I am an incoming PhD Student for the Department of Political Science at Yal
 
 # Interests to show in About widget
 interests:
-  - Large Language Models / Text-as-Data / Natural Language Processing
+  - Large Language Models
+    Text-as-Data 
+    Natural Language Processing
   - Chinese Political Economy
-  - Elite Politics and Policy Preferences
+  - Elite Politics 
+    and Policy Preferences
 
 # Education to show in About widget
 education:
