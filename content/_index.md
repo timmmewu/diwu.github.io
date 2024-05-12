@@ -40,16 +40,16 @@ sections:
           company_url:
           company_logo:
           location: Jena, Germany
-          date_start: '2022-06'
-          date_end: '2022-08'
+          date_start: '2022-06-01'
+          date_end: '2022-08-31'
           description: Developed machine learning type inference algorithm by combining machine learning and novelty detection, achieved high assurance F1 scores for automated type inference
         - title: Research Project Manager
           company: The Hebrew Univeristy of Jerusalem
           company_url:
           company_logo:
           location: Jerusalem, Israel
-          date_start: '2021-08'
-          date_end: '2022-09'
+          date_start: '2021-08-01'
+          date_end: '2022-09-01'
           description: Developed computational pipelines in Python using NLP models, Data Mining, Big Data Analysis, and Machine Learning
     design:
       columns: '2'
