@@ -35,6 +35,8 @@ Type inference methods based on deep learning are becoming increasingly popular 
 <p>
 <p>
 
+<br>
+<br>
 
 <h2 style="font-size:26px; "> Master's Thesis</h2>
 <p>
@@ -55,6 +57,8 @@ The leader’s preferences shape policy outcomes, however, the lack of accurate 
 <p>
 <p>
 
+<br>
+<br>
 <h2 style="font-size:26px; ">Work in Progress</h2>
 <p>
 <p>
@@ -92,7 +96,8 @@ Building on an independent database of 180,000 UN recommendations and a novel co
 <p>
 <p>
 <p>
-
+<br>
+<br>
 <h3 style="font-size:22px; ">Political Economy</h2>
 
 <p>
