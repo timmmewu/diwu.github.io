@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-       title: Experience
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
