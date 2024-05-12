@@ -19,25 +19,26 @@ author_profile: true
 <p>
 <p>
 <h3 style="font-size:22px; ">Software Engineering</h2>
-
 <p>
 <p>
-(<a href = "https://www.computer.org/csdl/proceedings-article/sera/2023/10197800/1PlnISVXqJW">TIPICAL - Type Inference for Python In Critical Accuracy Level</a> (with Bernd Gruner, Tim Sonnekalb & Clemens-Alexander Brust)
-*2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA)*
+<a href = "https://www.computer.org/csdl/proceedings-article/sera/2023/10197800/1PlnISVXqJW">TIPICAL - Type Inference for Python In Critical Accuracy Level</a> (with Bernd Gruner, Tim Sonnekalb & Clemens-Alexander Brust)
+<p>
+<em>2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA)</em>
 <details>
   <summary><i>Abstract</i></summary>
 
-Type inferenc
-e methods based on deep learning are becoming increasingly popular as they aim to compensate for the drawbacks of static and dynamic analysis approaches, such as high uncertainty. However, their practical application is still debatable due to several intrinsic issues such as code from different software domains will involve data types that are unknown to the type inference system. In order to overcome these problems and gain high-confidence predictions, we thus present TIPICAL, a method that combines deep similarity learning with novelty detection. We show that our method can better predict data types in high confidence by successfully filtering out unknown and inaccurate predicted data types and achieving higher F1 scores to the state-of-the-art type inference method Type4Py. Additionally, we investigate how different software domains and data type frequencies may affect the results of our method.
+Type inference methods based on deep learning are becoming increasingly popular as they aim to compensate for the drawbacks of static and dynamic analysis approaches, such as high uncertainty. However, their practical application is still debatable due to several intrinsic issues such as code from different software domains will involve data types that are unknown to the type inference system. In order to overcome these problems and gain high-confidence predictions, we thus present TIPICAL, a method that combines deep similarity learning with novelty detection. We show that our method can better predict data types in high confidence by successfully filtering out unknown and inaccurate predicted data types and achieving higher F1 scores to the state-of-the-art type inference method Type4Py. Additionally, we investigate how different software domains and data type frequencies may affect the results of our method.
 </details>
 
 <p>
 <p>
-
+<p>
+<p>
 
 
 <h2 style="font-size:26px; "> Master's Thesis</h2>
-
+<p>
+<p>
 <p>
 <p>
   
@@ -51,7 +52,8 @@ The leader’s preferences shape policy outcomes, however, the lack of accurate 
 
 <p>
 <p>
-
+<p>
+<p>
 
 <h2 style="font-size:26px; ">Work in Progress</h2>
 <p>
@@ -88,7 +90,8 @@ Building on an independent database of 180,000 UN recommendations and a novel co
 
 <p>
 <p>
-
+<p>
+<p>
 
 <h3 style="font-size:22px; ">Political Economy</h2>
 
