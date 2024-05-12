@@ -15,7 +15,7 @@ author_profile: true
 </script> 
 
 
-<h2 style="font-size:22px; "> Working Papers</h2>
+<h2 style="font-size:22px; "> Master's Thesis</h2>
 
 <p>
 <p>

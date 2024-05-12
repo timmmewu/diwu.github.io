@@ -17,8 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Yale Political Science PhD
-UC San Diego - Master of Chinese Political Economy
+role: Incoming Yale Political Science PhD \n UC San Diego - Master of Chinese Political Economy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,4 +116,4 @@ social:
 highlight_name: true
 ---
 
- I am an incoming PhD Student for the Department of Political Science at Yale. I am currently finishing my Masters in Chinese Political Economy at School of Global Policy and Strategy, UC San Diego. I received my BA in the joint program for Business administration and East Asia Studies at the Hebrew University of Jerusalem. My research focuses on developing text-as-data tools, espcially LLMs, to measure political constructs in Political Communications and Political Elites. My substantive interest lies in the intersection of elites politics and finance, espcially in the Chinese context. In my master thesis, I developed Novelty Probing, a new method for measuring the policy priorities of political elites across topics, and their influence on the same topics. This framework quantifies the novelty and influence of a leader’s ideas by utilizing semantic similarity between sentence embeddings to assess the deviation of their speeches from official propaganda, constructing indices for a leader’s novelty, and influence across policy topics. The Novelty and Influence indices are combined to create the Dominance Index, a metric for a leader’s ability to implement their novelty into policymaking.
+ I am an incoming PhD Student for the Department of Political Science at Yale. I am currently finishing my Masters in Chinese Political Economy at School of Global Policy and Strategy, UC San Diego. I received my BA in the joint program for Business administration and East Asia Studies at the Hebrew University of Jerusalem. My research focuses on developing text-as-data tools, espcially LLMs, to measure political constructs in Political Communications and Political Elites. My substantive interest lies in the intersection of elites politics and finance, espcially in the Chinese context. 
