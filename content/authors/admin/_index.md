@@ -30,13 +30,13 @@ bio: I am an incoming PhD Student for the Department of Political Science at Yal
 # Interests to show in About widget
 interests:
   - Large Language Models
-  <br>
+    <br>
     Text-as-Data 
     <br>
     Natural Language Processing
   - Chinese Political Economy
   - Elite Politics 
-  <br>
+    <br>
     and Policy Preferences
 
 # Education to show in About widget
